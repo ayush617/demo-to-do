@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.completed {
+  color: gray;
+}
+
+button:hover {
+  opacity: 0.85;
+}
+
+input[type="text"] {
+  border: 2px solid #e3e3e3;
+  padding: 0.5em;
+  border-radius: 5px;
+}
+
+button {
+  padding: 0.5em 1em;
+}
+
+.completed {
+  color: green;
+}
+
+.text-danger {
+  color: red;
+}
+
+
